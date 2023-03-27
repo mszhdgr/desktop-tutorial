@@ -1,0 +1,23 @@
+/*Here are some useful packages and tools you may want to install on Ubuntu terminal:*/
+
+htop: A process monitoring tool that displays system processes in real-time, with options to sort and filter processes by various metrics.
+
+neofetch: A command-line utility that displays system information and hardware details in a visually appealing way.
+
+tree: A command-line utility that displays directory structures in a tree-like format.
+
+ncdu: A disk usage analyzer that allows you to visualize disk usage and identify large files and directories taking up space.
+
+git: A version control system used for tracking changes in code repositories.
+
+curl: A command-line tool used for transferring data over various protocols.
+
+ffmpeg: A multimedia framework used for converting, recording, and streaming audio and video.
+
+imagemagick: A suite of image manipulation tools that can be used for image resizing, cropping, format conversion, and more.
+
+python3-pip: A package manager for Python packages and libraries.
+
+httrack: A website mirroring tool that allows you to download and archive entire websites for offline viewing.
+
+These are just a few examples of useful packages and tools you can install on Ubuntu terminal. The packages and tools you choose to install will depend on your specific needs and use cases.
